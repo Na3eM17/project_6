@@ -13,4 +13,7 @@ h4 {
   margin: 0;
   font-size: 20px;
   color: rgb(32, 32, 32);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #ffffff8a;
+    font-weight: 1000;
 }

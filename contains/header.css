@@ -125,7 +125,11 @@ button {
     align-items: start;
   }
   .modern-text {
+    
     color: black;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #ffffff;
+    font-weight: 1000;
   }
 }
 
